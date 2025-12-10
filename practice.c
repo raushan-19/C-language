@@ -1,3 +1,5 @@
+// NOTE :- This file is created only for practice codes (Any type of codes)
+
 #include <stdio.h>
 int main()
 {
